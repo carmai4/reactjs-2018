@@ -1,7 +1,7 @@
 {
-  "name": "reactjs-2018-calculator",
+  "name": "reactjs-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "fixed divide by zero bug on calculator, originally by ahfarmer on github",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
